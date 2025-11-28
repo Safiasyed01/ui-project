@@ -5,13 +5,13 @@ const App = () => {
     { 
       h1 :'1',
       img:'https://images.unsplash.com/photo-1589386417686-0d34b5903d23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmZlc2lvbmFsfGVufDB8fDB8fHww',
-      intro:'',
+      intro:'front-end dev',
       tag:'satisfied',
     },
     {
       h1:'1',
       img:'https://images.unsplash.com/photo-1629425733761-caae3b5f2e50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmZlc2lvbmFsfGVufDB8fDB8fHww',
-      intro:'',
+      intro:' ',
       tag:'underserved',
     },
     {

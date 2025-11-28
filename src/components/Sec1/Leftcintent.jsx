@@ -7,10 +7,10 @@ const Leftcintent = ({user,index}) => {
 
       {/* text goes ABOVE overlay using z-10 */}
       <div className='absolute bottom-0 left-0  p-10  text-black'>
-        <h2 className="text-black text-2xl font-bold rounded-full h-10 w-10 flex justify-center   bg-blue-950 items-center mb-49">1</h2>
+        <h2 className="text-black text-2xl font-bold rounded-full h-10 w-10 flex justify-center   bg-blue-950 items-center mb-49">{index}</h2>
        {/* Intro text */}
         <p className="leading-normal text-white mb-6">
-          {user.intro || "No description provided."}
+          {}
         </p>
         <div className="flex items-center gap-3 mt-3">
   <button className="bg-blue-950 text-white font-semibold px-3 py-1 rounded-full">
